@@ -114,7 +114,7 @@ python -m src.main <PATH_TO_FILE> --type <FILE_TYPE> -w <PATH_TO_WORDLIST>
 #### Example:
 
 ```bash
-python -m src.main ../Secret.zip --type zip -w /home/FileCrack/wordlists/rockyou.txt
+python -m src.main ../Secret.zip --type zip -w /home/KadCrack/wordlists/rockyou.txt
 ```
 
 Output:
@@ -246,7 +246,7 @@ Please use **responsibly and ethically**.
 ## Example Command Recap
 
 ```bash
-python -m src.main ../Secret.zip --type zip -w /home/FileCrack/wordlists/rockyou.txt
+python -m src.main ../Secret.zip --type zip -w /home/KadCrack/wordlists/rockyou.txt
 ```
 
 ```bash
